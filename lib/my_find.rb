@@ -17,7 +17,7 @@ def my_find(collection)
     # and then sends the return value back to yeild. In this case, the block is sending
     #true or false based on the element and the comparative/boolean evaluation statement
     #in the block. see ex block below
-    end 
+    end
     i += 1
   end
 end
